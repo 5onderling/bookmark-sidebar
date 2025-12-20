@@ -1,3 +1,7 @@
+# New Source
+
+https://codeberg.org/5onderling/bookmark-sidebar
+
 # bookmark-sidebar
 
 ## Project setup
